@@ -1,0 +1,10 @@
+{
+    "leaderboard_f1_score": 1,
+    "val_f1_score": 0.9918,
+    "val_precision": 0.9919,
+    "val_accuracy": 0.9918,
+    "epoch_to_converge": 4,
+    "best_epoch": 4,
+    "model_name": "ResNet50",
+    "notes": "Early stopping used. Best model selected on val_f1_score."
+}
