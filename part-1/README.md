@@ -37,8 +37,9 @@ metrics.json        # Evaluation metrics summary
 1. Clone this repository:
 
 ```bash
-git clone https://your-repo-url.git
-cd your-repo-name
+git clone https://github.com/yashkc2025/soil_classification_annam
+cd soil_classification_annam
+cd part-1
 ```
 
 2. Install dependencies:
