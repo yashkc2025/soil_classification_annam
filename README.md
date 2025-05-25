@@ -36,14 +36,7 @@ part-2
 
 ## Setup & Installation
 
-1. Clone this repository:
-
-```bash
-git clone https://github.com/yashkc2025/soil_classification_annam
-cd soil_classification_annam
-```
-
-> Navigate to individual directories to run scripts
+### Navigate to individual competition directories for instruction
 
 ## Notes
 
