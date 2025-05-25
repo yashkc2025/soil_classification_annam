@@ -51,7 +51,7 @@ pip install -r requirements.txt
 3. Download data and optionally a pre-trained model:
 
 ```bash
-./download.sh
+./data/download.sh
 ```
 
 > **Note:** This script requires the Kaggle CLI and your Kaggle API token (`kaggle.json`) to be set up.
