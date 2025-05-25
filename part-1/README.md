@@ -88,10 +88,7 @@ Use the inference notebook to load the trained model and make predictions:
 - **Model architecture:** ResNet50 finetuned on train dataset
 - **Performance on validation data:**
 
-  - F1 Score: 0.9918
-  - Precision: 0.9919
-  - Recall: 0.9917
-  - Accuracy: 0.9918
+  - Leaderboard F1 Score: 1.00
 
 - **Converged at epoch:** 4
 
