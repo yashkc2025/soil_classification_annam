@@ -5,8 +5,6 @@ This repo documents our teams approach to 2 competitions
 - Soil Classification
 - Soil Detection
 
-> We used Data Enhancement techniques to address class imbalance in training set!
-
 ## Project Structure
 
 ```
