@@ -15,7 +15,7 @@ part-1
       |-- /notebooks          # Jupyter notebooks for training and inference demos
       |-- /data               # Dataset storage (downloaded via script)
       |-- /docs               # Documentation and architecture diagrams
-      |-- README.md           # This file
+      |-- README.md           # Instructions
       |-- requirements.txt    # Python dependencies
       |-- download.sh         # Data and pre-trained model download script
       |-- metrics.json        # Evaluation metrics summary
@@ -24,7 +24,7 @@ part-2
       |-- /notebooks          # Jupyter notebooks for training and inference demos
       |-- /data               # Dataset storage (downloaded via script)
       |-- /docs               # Documentation and architecture diagrams
-      |-- README.md           # This file
+      |-- README.md           # Instructions
       |-- requirements.txt    # Python dependencies
       |-- download.sh         # Data and pre-trained model download script
       |-- metrics.json        # Evaluation metrics summary
